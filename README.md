@@ -1,3 +1,13 @@
+# About the project
+
+[Working demo](https://xn--imi-ura.github.io/Friendly-Solutions---code-task)
+
+# What was used in this project?
+
+- create-react-app
+- styled-components
+- context
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
