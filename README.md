@@ -1,6 +1,6 @@
 # About the project
 
-[Working demo](https://xn--imi-ura.github.io/Friendly-Solutions---code-task)
+[Working demo](https://maciejlys.github.io/Friendly-Solutions---code-task/)
 
 # What was used in this project?
 
