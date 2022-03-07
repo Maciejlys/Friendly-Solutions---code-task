@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { AppContext } from "../../context/context";
-import { WorkOrder } from "../../WorkOrder/WorkOrder";
+import { WorkOrder } from "../WorkOrder/WorkOrder";
 import { DataWrapper } from "./DataTableElements";
 
 export const DataTable: React.FC = () => {

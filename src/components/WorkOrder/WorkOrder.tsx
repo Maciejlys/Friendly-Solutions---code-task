@@ -1,5 +1,5 @@
 import React from "react";
-import { WorkOrderType } from "../types/data.type";
+import { WorkOrderType } from "../../types/data.type";
 import {
   Asignee,
   Description,
